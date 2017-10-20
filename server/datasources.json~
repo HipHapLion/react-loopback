@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDS": {
+    "host": "ds113915.mlab.com",
+    "port": 13915,
+    "url": "mongodb://test:1234@ds113915.mlab.com:13915/react_tutorial_db",
+    "database": "react_tutorial_db",
+    "password": "1234",
+    "name": "mongoDS",
+    "user": "test",
+    "connector": "mongodb"
+  }
+}
